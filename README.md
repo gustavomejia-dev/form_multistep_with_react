@@ -1,0 +1,2 @@
+# formulario com etapas utilizando react
+Eu criei um projeto usando JavaScript e React para simular um formulário de avaliação. O projeto tem uma interface intuitiva e permite que os usuários avaliem diferentes aspectos de um produto ou serviço. Eles podem dar notas e escrever comentários sobre o que gostaram e o que poderiam ser melhorados.  Eu achei que foi um projeto muito útil e espero poder usá-lo em outras ocasiões no futuro.
